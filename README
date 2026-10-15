@@ -1,4 +1,4 @@
-# 这是关于shell-lab的题解
+这是关于shell-lab的题解
 代码文件在tsh.c中，tsh.ref是参考文件
 trace01到trace16是测试样例，make testNN即可
 result里面存的是实验结果的图片，方便在markdown提交上直接显示照片
